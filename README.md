@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhaque22
+- 👋 Hi, I’m @mhaque22, or Maria :)
 - 👀 I’m interested in sustainability and conservation, global issues, and the legal field!
 - 🌱 I’m currently learning Python and R, and dipping my toes into the tech world! I'm pivoting over from the legal/ education field
 - 💞️ I’m looking to collaborate on new projects and learn from the community!
